@@ -1,0 +1,31 @@
+
+.navbar{
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    height: auto;
+}
+.navbar-brand {
+    float: left;
+    padding: 12px 12px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.logo{
+    width: 100%;
+    height: auto;
+}
+.navbar li{
+    float: right;
+    display: block;
+    padding: 12px 12px;
+}
+
+.bckg-gray{
+    background-color: #808080;
+}
+.tittle{
+    color: white;
+    padding: 5%;
+}
