@@ -1,4 +1,7 @@
 /* WZ class */
+.a-none{
+    text-decoration: none;
+}
 .container-fluid{
     width: 100%;
 }
@@ -35,6 +38,9 @@
  .pd-2{
  	padding: 2%;
  }
+ .pb-2{
+    padding-bottom: 2%;
+ }
  .pd-4{
  	padding:4%;
  }
@@ -44,8 +50,17 @@
  .pdb-4 {
     padding-bottom: 4%;
  }
+ .pdt-1 {
+    padding-top: 1%;
+ }
+ .pdb-1 {
+    padding-bottom: 1%;
+ }
  .pdt-5{
  	padding-top: 5%;
+ }
+ .pb-15{
+    padding-bottom: 15%;
  }
  .font{
  	font-size: 3em;
